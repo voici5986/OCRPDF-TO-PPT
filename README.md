@@ -19,6 +19,8 @@
 ## 📖 项目简介
 
 使用Google Nano Banana Pro等AI工具生成的PPT虽然视觉效果惊艳，但输出的是**不可编辑的图片格式**。当需要修改文字内容时，只能重新生成，极其不便。
+参考视频：
+https://www.bilibili.com/video/BV1a7mJBbEht/?vd_source=32d1e5983d8d2a40a44db0d2e38f9ab4
 
 **AI PPT Restorer** 是一个开源工具，通过 **OCR文字识别 + AI智能修复** 技术，将AI生成的PPT图片还原为完全可编辑的PPT文档，实现：
 
