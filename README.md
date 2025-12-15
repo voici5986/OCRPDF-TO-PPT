@@ -1,5 +1,11 @@
 # PPT编辑器项目 - 专业优化版 v2.0
 
+[![GitHub Stars](https://img.shields.io/github/stars/Tansuo2021/OCRPDF-TO-PPT?style=social)](https://github.com/Tansuo2021/OCRPDF-TO-PPT/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Tansuo2021/OCRPDF-TO-PPT?style=social)](https://github.com/Tansuo2021/OCRPDF-TO-PPT/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Tansuo2021/OCRPDF-TO-PPT)](https://github.com/Tansuo2021/OCRPDF-TO-PPT/issues)
+[![GitHub License](https://img.shields.io/github/license/Tansuo2021/OCRPDF-TO-PPT)](https://github.com/Tansuo2021/OCRPDF-TO-PPT/blob/main/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 ## 🎯 项目简介
 
 这是一个功能强大的PPT编辑器，支持OCR识别、AI图片编辑、背景去除、多页面管理等专业功能。本版本（v2.0）经过全面优化，在代码质量、性能、可维护性等方面都有显著提升。
