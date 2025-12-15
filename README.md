@@ -1,8 +1,11 @@
-# PPT编辑器项目 - 专业优化版 v2.0
+# PPT编辑器项目 - 专业优化版 v2.0 效果堪比canvas AI选文字功能！
 
 ## 🎯 项目简介
 
 这是一个功能强大的PPT编辑器，支持OCR识别、AI图片编辑、背景去除、多页面管理等专业功能。本版本（v2.0）经过全面优化，在代码质量、性能、可维护性等方面都有显著提升。
+效果图：
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/d5c194f5-b5dd-4638-b774-5abd735c1622" />
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/836311b3-0af8-4f91-a55d-0e822457f71f" />
 
 ## ✨ 主要功能
 
@@ -351,4 +354,5 @@ pylint ppt_editor_modular/
 ---
 
 *Powered by Python 🐍 | Made with ❤️*
+
 
