@@ -1,6 +1,7 @@
 English | [中文](README.zh-CN.md)
 
 # OCRPDF-TO-PPT (PowerOCR Presentation)
+![Uploading Clip_2026-01-27_21-17-54.png…]()
 
 A lightweight desktop tool that turns images / PDF pages into an **editable PowerPoint (.pptx)** with OCR text boxes.
 
